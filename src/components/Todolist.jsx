@@ -59,7 +59,7 @@ const Todolist = () => {
         </div>
         
         {/* Input Section */}
-        <div className='flex items-center rounded-full my-7 bg-slate-300'>
+        <div className='flex items-center rounded-full my-7 bg-slate-400'>
           <input 
             ref={inputRef} 
             className='flex-1 pl-6 pr-2 bg-transparent border-0 outline-none h-14 placeholder:text-slate-400' 
